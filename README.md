@@ -33,5 +33,3 @@ Welcome to my GitHub profile! I'm a cybersecurity professional with a systems ad
 - Raising neonatal kittens 
 
 Thanks for visiting my profile! Feel free to reach out if you want to collaborate on a project or just chat about tech.
-
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=carteraspear.carteraspear)
