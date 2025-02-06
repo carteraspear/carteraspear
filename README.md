@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a cybersecurity professional with a systems ad
 
 - **Email:** [carterspear@proton.me](mailto:carterspear@proton.me)
 - **LinkedIn:** [Carter A. Spear](https://www.linkedin.com/in/carterspear)
-- **Website:** [Carter Spear](carterspear.com)
+- **Website:** [Carter Spear](https://www.carterspear.com)
 
 ## 🌱 Currently Learning
 
